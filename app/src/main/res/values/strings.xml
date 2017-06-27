@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Aiims Survey</string>
+
+    <!--SURVEY ELEMENT-->
+    <string name="seTitle">Title</string>
+    <string name="seDescription">Description</string>
+    <string name="seTotalQ">Total: </string>
+    <string name="seVersion">Version: </string>
+    <string name="seLanguage">Language: </string>
 </resources>
