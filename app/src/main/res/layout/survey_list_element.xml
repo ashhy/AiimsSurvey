@@ -34,14 +34,14 @@
         android:orientation="horizontal">
 
         <TextView
+            android:id="@+id/seTotalQ"
             android:layout_width="0dp"
-            android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textSize="@dimen/seInnerLLTextSize"
-            android:textColor="@color/seInnerLLText"
+            android:layout_weight="1"
             android:text="@string/seTotalQ"
-            android:id="@+id/seTotalQ" />
+            android:textAlignment="center"
+            android:textColor="@color/seInnerLLText"
+            android:textSize="@dimen/seInnerLLTextSize" />
 
         <TextView
             android:layout_width="0dp"

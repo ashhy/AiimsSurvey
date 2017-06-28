@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-
-
+    <color name="colorPrimary">#3e2723 </color>
+    <color name="colorPrimaryDark">#6d4c41 </color>
+    <color name="colorAccent">#d7b9ba</color>
+    <color name="bg">#7cb342</color>
     <!--Survey List Element-->
     <color name="seBckg">#FFEBCD</color>
     <color name="seTitleText">#000000</color>
